@@ -47,11 +47,11 @@ My first command simply pings the hosts under the Linux group that I defined: <b
 <br />
 <br />
 Next I ran an ad-hoc (denoted by the '-a') command to check the OS-release of the hosts in the Linux group: <br/> <br />
-<img src="https://i.imgur.com/v4PVgGb.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://i.imgur.com/KfA7hze.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-The next simple step was running Windows update on the VM repeatedly until up to date: <br/> <br />
-<img src="https://i.imgur.com/hH5FBjs.png" height="80%" width="80%" alt="Lab Screenshots"/>
+Following that I ran another ad-hoc command to reboot both hosts, the response showing that the reboot was successful: <br/> <br />
+<img src="https://i.imgur.com/Tuppmka.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 I then ran a final credentialed scan to see the results of the remediation: <br/> <br />
