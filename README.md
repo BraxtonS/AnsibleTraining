@@ -42,11 +42,11 @@ After this, I edited the hosts file(using vi) to add the other VMs under the gro
 <img src="https://i.imgur.com/CwTWeUK.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-My first ad-hoc (denoted by the '-a') command simply pings the hosts under the Linux group that I defined: <br/> <br />
+My first command simply pings the hosts under the Linux group that I defined: <br/> <br />
 <img src="https://i.imgur.com/XO0Dq2m.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Now I attempted to remediate these as best I could, which began with deleting Firefox from the VM: <br/> <br />
+Next I ran an ad-hoc (denoted by the '-a') command to check the OS-release of the hosts in the Linux group: <br/> <br />
 <img src="https://i.imgur.com/v4PVgGb.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
