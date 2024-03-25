@@ -26,12 +26,12 @@ Successfully made account on Linode in order to establish and make VMs: <br/> <b
 <img src="https://i.imgur.com/G6RQdPU.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Turning off VM firewall in order to establish connection to Nessus on home machine: <br/> <br />
+Finding a public stackscript to deploy a preconfigured VM with a script: <br/> <br />
 <img src="https://i.imgur.com/Fnfw5IP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Connection attempts where the first is with the firewall enabled and the second is with the firewall disabled: <br/> <br />
-<img src="https://i.imgur.com/EjTb0k6.png" height="80%" width="80%" alt="Lab Screenshots"/>
+Deployed 3 VMs with one being from a stackcript and the subsequent others being made by hand: <br/> <br />
+<img src="https://i.imgur.com/HFfrFU3.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Results of simple uncredentialed scan on VM in Nessus after establishing connection: <br/> <br />
