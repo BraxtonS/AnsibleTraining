@@ -27,7 +27,7 @@ Successfully made account on Linode in order to establish and make VMs: <br/> <b
 <br />
 <br />
 Turning off VM firewall in order to establish connection to Nessus on home machine: <br/> <br />
-<img src="https://imgur.com/a/tvGxH5n" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fnfw5IP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Connection attempts where the first is with the firewall enabled and the second is with the firewall disabled: <br/> <br />
