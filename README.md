@@ -34,12 +34,12 @@ Deployed 3 VMs with one being from a stackcript and the subsequent others being 
 <img src="https://i.imgur.com/dzOnmIy.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Results of simple uncredentialed scan on VM in Nessus after establishing connection: <br/> <br />
-<img src="https://i.imgur.com/CE9VJs6.png" height="80%" width="80%" alt="Lab Screenshots"/>
+Logged into stackcript VM along with checking if Ansible is installed and configured: <br/> <br />
+<img src="https://i.imgur.com/yjOTNSV.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-After this, I ran a scan with the credentials of the account made on the VM: <br/> <br />
-<img src="https://i.imgur.com/Zg9QMrx.png" height="80%" width="80%" alt="Lab Screenshots"/>
+After this, I edited the hosts file(using vi) to add the other VMs under the group 'Linux': <br/> <br />
+<img src="https://i.imgur.com/CwTWeUK.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 I then downloaded a very old version of Firefox (3.6.12) on the VM and ran another credentialed scan: <br/> <br />
