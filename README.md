@@ -23,7 +23,7 @@ So after doing some searching for new products to do some training on, I landed 
 
 <p align="center">
 Successfully made account on Linode in order to establish and make VMs: <br/> <br />
-<img src="https://imgur.com/G6RQdPU" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://imgur.com/a/t843vZF" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Turning off VM firewall in order to establish connection to Nessus on home machine: <br/> <br />
