@@ -50,16 +50,27 @@ Next I ran an ad-hoc (denoted by the '-a') command to check the OS-release of th
 <img src="https://i.imgur.com/KfA7hze.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Following that I ran another ad-hoc command to reboot both hosts, the response showing that the reboot was successful: <br/> <br />
+Following that I ran another ad-hoc command to reboot both hosts, the first and second response together showing that the reboot was successful: <br/> <br />
 <img src="https://i.imgur.com/Tuppmka.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-I then ran a final credentialed scan to see the results of the remediation: <br/> <br />
-<img src="https://i.imgur.com/fRRMuJ5.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://i.imgur.com/SXh6ak7.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
-Here are all the scans put together: <br/> <br />
-<img src="https://i.imgur.com/ggVZu8Y.png" height="80%" width="80%" alt="Lab Screenshots"/>
+The next step was making a playbook, which prompted me to make this YAML file(first time making YAML code) to check if nano was installed: <br/> <br />
+<img src="https://i.imgur.com/mRzaag0.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+I then used the corresponding Ansible command to run this YAML file as a playbook. The response shows that nano was indeed on both hosts: <br/> <br />
+<img src="https://i.imgur.com/RHX3Ik2.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br /> 
+To double check, I went back to the previous playbook and made it so that it would ensure nano is NOT on the hosts ('absent'): <br/> <br />
+<img src="https://i.imgur.com/fqBEg0J.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+Finally the results show that nano was removed due to the 'changed' field being 1: <br/> <br />
+<img src="https://i.imgur.com/uXJ5yUh.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br /> 
 </p>
