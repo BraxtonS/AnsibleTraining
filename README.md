@@ -31,7 +31,7 @@ Finding a public stackscript to deploy a preconfigured VM with a script: <br/> <
 <br />
 <br />
 Deployed 3 VMs with one being from a stackcript and the subsequent others being made by hand: <br/> <br />
-<img src="https://i.imgur.com/HFfrFU3.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://i.imgur.com/dzOnmIy.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
 Results of simple uncredentialed scan on VM in Nessus after establishing connection: <br/> <br />
