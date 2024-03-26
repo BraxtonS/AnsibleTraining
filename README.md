@@ -84,15 +84,15 @@ Following the lab I did yesterday with Ansible I decided to try and use this on 
 
 <h2>Additional Languages and Utilities Used</h2>
 
-- <b>Cisco Devnet</b>
+- <b>Cisco DEVNET</b>
 
 <h2>Lab Screenshots</h2>
 
 <p align="center">
-I went to make an account on Cisco Devnet then further reserved an IOS XE Switch for about 2 hours: <br/> <br />
+I went to make an account on Cisco DEVNET then further reserved an IOS XE Switch for about 2 hours: <br/> <br />
 <img src="https://i.imgur.com/gM5pzNp.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
-NOTE: I wanted to reserve multiple to serve the main function of Ansible but unfortunately I could only have one reservation at a time.
+NOTE: I wanted to reserve multiple to serve the main function of Ansible but unfortunately I could only have one reservation at a time.<br/> <br />
 <br />
 Next I went to the hosts file for ansible to add this to a group called 'routers' along with variables meant to connect to the switch: <br/> <br />
 <img src="https://i.imgur.com/CFwzzTx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
