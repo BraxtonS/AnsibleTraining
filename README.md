@@ -1,4 +1,4 @@
-# AnsibleTraining
+# Ansible Training
 Displaying my varying knowledge of the open-source software Ansible. 
 
 
@@ -74,3 +74,6 @@ Finally the results show that nano was removed due to the 'changed' field being 
 <br />
 <br /> 
 </p>
+
+# AnsibleTraining
+Displaying my varying knowledge of the open-source software Ansible. 
